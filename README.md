@@ -1,6 +1,6 @@
 # Face Detection With Artificial Neural Networks
-## Rita Zevallos and Jacob Carstenson
-## Supervisor: Lisa Meeden
+### Rita Zevallos and Jacob Carstenson
+### Supervisor: Lisa Meeden
 
 This project served as our final project to my Artificial Intelligence class in Spring 2015. We used the Conx neural
 network python library to facilitate creating and training our neural network. The funntion of the neural network is simple:
